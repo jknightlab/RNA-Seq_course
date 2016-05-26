@@ -27,16 +27,17 @@
 You can find lectures given during the course here:
 
 - [Introduction to NGS](...)
-- [Experimental design](...)
+- [Experimental design](https://github.com/jknightlab/RNA-Seq_course/blob/master/Concepts_RNASeq_ExptDesign_250416.pdf)
 - [Introduction to RNA-Seq](https://github.com/jknightlab/RNA-Seq_course/blob/master/2016-04-25_RNAseqCourse_RNASeq-QC_irina.pdf)
 - [Alignment](https://github.com/jknightlab/RNA-Seq_course/blob/master/2016-04-25_RNAseqCourse_alignment_irina.pdf)
-- [Transcript quantification](...)
+- [Transcript quantification](https://github.com/jknightlab/RNA-Seq_course/blob/master/Concepts_RNASeq_Quantification_280416.pdf)
 - [DE analysis and edgeR](...)
-- [Pathway analysis](...)
+- [Pathway analysis](https://github.com/jknightlab/RNA-Seq_course/blob/master/Concepts_RNASeq_PathwayAnalayis_280416.pdf)
 - [Visualisation](https://github.com/jknightlab/RNA-Seq_course/blob/master/2016-04-25_RNAseqCourse_vizualise_irina.pdf)
 - [Splicing](https://github.com/jknightlab/RNA-Seq_course/blob/master/2016-04-29_RNAseqCourse_splicing_irina.pdf)
 - [Cutting edge technologies](...)
 - [Single cell sequencing](...)
+
 
 
 **Data**
