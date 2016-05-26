@@ -55,9 +55,9 @@ UCSC session for the second practical on visualisation can be found
 
 **Practicals:**
 
--- [Irina's practical on alignment](https://github.com/jknightlab/RNA-Seq_course/blob/master/practical_session_01.pdf)
--- [Irina's practical on UCSC](https://github.com/jknightlab/RNA-Seq_course/blob/master/practical_session_02.pdf)
--- [Helen's and Davis's practical on differential gene expression](...)
+- [Irina's practical on alignment](https://github.com/jknightlab/RNA-Seq_course/blob/master/practical_session_01.pdf)
+- [Irina's practical on UCSC](https://github.com/jknightlab/RNA-Seq_course/blob/master/practical_session_02.pdf)
+- [Helen's and Davis's practical on differential gene expression](...)
 
 *for GMS students*
 
