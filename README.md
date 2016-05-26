@@ -53,6 +53,12 @@ Instructions on how to install the VM can be found
 UCSC session for the second practical on visualisation can be found
 [here](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr22%3A20904012-20924513&hgsid=213561077_dEH3EOWETpcUrPqKhZwX7vWMsZYB).
 
+**Practicals:**
+
+-- [Irina's practical on alignment](https://github.com/jknightlab/RNA-Seq_course/blob/master/practical_session_01.pdf)
+-- [Irina's practical on UCSC](https://github.com/jknightlab/RNA-Seq_course/blob/master/practical_session_02.pdf)
+-- [Helen's and Davis's practical on differential gene expression](...)
+
 *for GMS students*
 
 To get sequencing data that you generated during the NGS course in March,
